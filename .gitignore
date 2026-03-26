@@ -1,0 +1,8 @@
+.DS_Store
+.next
+coverage
+node_modules
+npm-debug.log*
+.env
+.env.local
+.env.*.local
